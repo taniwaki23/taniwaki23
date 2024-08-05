@@ -5,7 +5,7 @@
 <h3>shun taniwaki</h3>
 <p>Web Developer / Frontend Engineer</p>
 
-<p> My Portfolio Site：https://www.shunt-blog.com/</p>
+<p> My Portfolio Site：https://www.shunt-blog.com</p>
 
 ### Language
 - HTML/CSS
