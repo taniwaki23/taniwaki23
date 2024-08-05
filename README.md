@@ -1,6 +1,6 @@
 # Hi 👋, Thanks for visiting! 😊
 
-## Profile 🤴
+## Profile 🌱
 
 <h3>shun taniwaki</h3>
 <p>Web Developer / Frontend Engineer</p>
