@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Thanks for visiting</h1>
-<h3 align="center">Web Developer / Frontend Engineer</h3>
+<h3 align="left">Hi 👋, Thanks for visiting</h1>
+<h3 align="left">Web Developer / Frontend Engineer</h3>
 
 <!--
 **shu-t23/shu-t23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
