@@ -2,10 +2,10 @@
 
 ## Profile 🤴
 
-<h2>shun taniwaki</h2>
-<h2>Web Developer / Frontend Engineer</h2>
+<h3>shun taniwaki</h3>
+<p>Web Developer / Frontend Engineer</p>
 
-<h3> my portfolio site：https://www.shunt-blog.com/</h3>
+<p> my portfolio site：https://www.shunt-blog.com/</p>
 
 ### Language
 - HTML/CSS
