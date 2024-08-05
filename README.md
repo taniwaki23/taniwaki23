@@ -24,6 +24,9 @@
 - Bootstrap
 - Tailwind CSS
 
+### Others
+- AWS(EC2, RDS,Lambda)
+
 ### certification
 - 基本情報技術者試験　合格
 - Oracle Certified Java Programmer Gold SE 11
@@ -32,9 +35,6 @@
 - AWS Certified Developer - Associate
 - HTML5 Professional Certification Level.2 Exam
 - Linux Professional Certification Level.1　
-
-### Others
-- AWS(EC2, RDS,Lambda)
 
 <!--
 **shu-t23/shu-t23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
