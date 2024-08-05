@@ -1,7 +1,9 @@
 <h1>Hi 👋, Thanks for visiting</h1>
-<h5>Web Developer / Frontend Engineer</h5>
 
-<h5>Profile🌱</h5>
+<h3>Profile🌱</h5>
+
+<h5>shun taniwaki</h5>
+<h5>Web Developer / Frontend Engineer</h5>
 
 <!--
 **shu-t23/shu-t23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
