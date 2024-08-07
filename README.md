@@ -2,9 +2,9 @@
 
 ## Profile 🌱
 
-Web Engineer / 2 years ～
-
-<p> My Portfolio Site：https://www.shunt-blog.com</p>
+- 🧑‍💻 I'm a Web Engineer. / 2 years～
+- 💬 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 🌱 My Portfolio Site：https://www.shunt-blog.com
 
 ### Language
 - CSS
@@ -37,8 +37,8 @@ Web Engineer / 2 years ～
 - Linux Professional Certification Level.1
 
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shu-t23&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-t23&theme=vue-dark&layout=compact" />
 </div>
 
 <!--
