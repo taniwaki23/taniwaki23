@@ -2,6 +2,8 @@
 
 ## Profile 🌱
 
+Web Engineer / 2 years ～
+
 <p> My Portfolio Site：https://www.shunt-blog.com</p>
 
 ### Language
