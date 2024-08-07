@@ -34,7 +34,12 @@ Web Engineer / 2 years ～
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
 - HTML5 Professional Certification Level.2 Exam
-- Linux Professional Certification Level.1　
+- Linux Professional Certification Level.1
+
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
+</div>
 
 <!--
 **shu-t23/shu-t23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
