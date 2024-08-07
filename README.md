@@ -4,7 +4,7 @@
 
 - 🧑‍💻 I'm a Web Engineer. / 2 years～
 - 💬 How to reach me: [Twitter - @username](https://twitter.com/username)
-- 🌱 My Portfolio Site：https://www.shunt-blog.com
+- 🌱 Blog Site：https://www.shunt-blog.com
 
 ### Language
 - CSS
@@ -27,7 +27,7 @@
 - Storybook
 - Jest
 
-### certification
+### Certification
 - 基本情報技術者試験　合格
 - Oracle Certified Java Programmer Gold SE 11
 - ORACLE MASTER Silver SQL 2019
@@ -36,9 +36,10 @@
 - HTML5 Professional Certification Level.2 Exam
 - Linux Professional Certification Level.1
 
+### Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shu-t23&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-t23&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shun-t23&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shun-t23&theme=vue-dark&layout=compact" />
 </div>
 
 <!--
