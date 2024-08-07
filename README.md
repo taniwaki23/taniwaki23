@@ -2,30 +2,28 @@
 
 ## Profile 🌱
 
-<h3>shun taniwaki</h3>
-<p>Web Developer / Frontend Engineer</p>
-
 <p> My Portfolio Site：https://www.shunt-blog.com</p>
 
 ### Language
-- HTML/CSS
+- CSS
 - JavaScript
 - TypeScript
 - Java
-- PHP
 - WordPress
 
 ### Framework
 - Next.js
-- Spring Framework
+- Spring boot
 
 ### Library
 - React
 - Bootstrap
 - Tailwind CSS
+- styled-components
 
 ### Others
-- AWS(EC2, RDS,Lambda)
+- Storybook
+- Jest
 
 ### certification
 - 基本情報技術者試験　合格
