@@ -21,7 +21,7 @@
 - React
 - Bootstrap
 - Tailwind CSS
-- styled-components
+- Styled-components
 
 ### Others
 - Storybook
