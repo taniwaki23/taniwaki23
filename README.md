@@ -37,8 +37,8 @@
 
 ### Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shun-t23&theme=vue-dark&layout=compact&cache_seconds=1800" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shun-t23&theme=vue-dark&layout=compact&cache_seconds=1800" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=taniwaki23&theme=vue-dark&layout=compact&cache_seconds=1800" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniwaki23&theme=vue-dark&layout=compact&cache_seconds=1800" />
 </div>
 
 <!--
