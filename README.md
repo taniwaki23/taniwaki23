@@ -3,7 +3,6 @@
 ## Profile 🔭
 
 - 🧑‍💻 I'm a Web Engineer. / 2 years～
-- 📫 How to reach me : [Twitter - @username](https://twitter.com/username)
 - 🌱 Blog Site：https://www.shunt-blog.com
 
 ### Language
