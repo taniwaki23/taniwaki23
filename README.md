@@ -26,14 +26,6 @@
 - Storybook
 - Jest
 
-### Certification
-- 基本情報技術者試験　合格
-- Oracle Certified Java Programmer Gold SE 11
-- ORACLE MASTER Silver SQL 2019
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Developer - Associate
-- HTML5 Professional Certification Level.2 Exam
-- Linux Professional Certification Level.1
 
 ### Activities
 <div align="left"> 
